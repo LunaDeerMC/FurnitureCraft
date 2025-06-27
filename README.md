@@ -1,1 +1,3 @@
 # FurnitureCraft
+
+![](images/structure.png)
